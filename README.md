@@ -21,6 +21,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
    * e2
    * e3
 * F
-![Github Logo]{https://github.com/AdrianaGzzB/liga-justicia/assets/113390378/69f0252d-d7e8-4292-813a-6fb7b5eee85a}
-}
+![Github Logo]{https://info.orcid.org/es/codificar-con-el-github-octocat/}
 
