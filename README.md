@@ -21,5 +21,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
    * e2
    * e3
 * F
-![Github Logo]{https://avatars.githubusercontent.com/u/583231?v=4}
+![Github Logo] {https://avatars.githubusercontent.com/u/583231?v=4}
 
