@@ -20,6 +20,8 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
    * e1
    * e2
    * e3
-* F
-![Github Logo] {https://www.svgrepo.com/show/370688/social-github-octocat.svg}
+
+![Github Logo](https://www.svgrepo.com/show/370688/social-github-octocat.svg)
+
+*esto* **es** _un texto_
 
